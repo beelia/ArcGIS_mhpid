@@ -1,5 +1,13 @@
 title: ArcGIS Mobile Home Resources
 description: Mobile home park rent control status
+email: beelia@gmail.com
 remote_theme: Wiredcraft/carte
 url: beelia.github.io
-baseurl: beelia
+baseurl: ArcGIS_mhpid
+github_username: beelia
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
