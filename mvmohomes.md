@@ -1,4 +1,4 @@
-# parks_for_sale/{mhpid}
+# Value of mobile home parks in Mountain View/{mhpid}
 
 Returns information about mobile home parks, including city, zip, street address, owner, size (acres), and apppraised value. 
 
