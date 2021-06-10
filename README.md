@@ -1,1 +1,1 @@
-# Use these resources to determine mobile home park valuations
+# ArcGIS ids for local mobile home parks
